@@ -1,0 +1,117 @@
+{
+  "name": "Astolfo64",
+  "author": "#0236",
+  "theme_color_map": {
+    "KEYBOARD": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#000000",
+      "#FFFFFF"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#EA3368",
+      "#FFFFFF"
+    ],
+    "HEADER_PRIMARY": [
+      "#ffffff",
+      "#FFFFFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#EA3368",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ffffff",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#aaaaaa",
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#aaaaaa",
+      "#FFFFFF"
+    ],
+    "TEXT_LINK": [
+      "#EA3368",
+      "#FFFFFF"
+    ],
+    "TEXT_MUTED": [
+      "#EA3368",
+      "#FFFFFF"
+    ],
+    "TEXT_NORMAL": [
+      "#ffffff",
+      "#FFFFFF"
+    ]
+  },
+  "colours": {
+    "PRIMARY_DARK": "#ffffff",
+    "PRIMARY_DARK_100": "#ffffff",
+    "PRIMARY_DARK_300": "#ffffff",
+    "PRIMARY_DARK_360": "#cccccc",
+    "PRIMARY_DARK_400": "#EA3368",
+    "PRIMARY_DARK_500": "#EA3368",
+    "PRIMARY_DARK_600": "#111111",
+    "PRIMARY_DARK_630": "#353535",
+    "PRIMARY_DARK_700": "#353535",
+    "PRIMARY_DARK_800": "#000000",
+    "BRAND_NEW": "#EA3368",
+    "WHITE": "#FFFFFF"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#121212"
+  }
+  "background": {
+    "blur": 4,
+    "url": "https://images-ext-1.discordapp.net/external/0hN2xvsfwRIArdMvcLLi4kBIjfzbbrUvpy__TknuD7c/https/o.remove.bg/downloads/4c70b665-a1d0-4fe6-96e6-6a0bf6571490/C8A5EC7D-0B76-4A97-952F-51455D3907C4-removebg-preview.png",
+    "alpha": 1.0
+
+  }
+}
