@@ -109,9 +109,7 @@
     "CHAT_GREY": "#121212"
   }
   "background": {
-    "blur": 4,
     "url": "https://images-ext-1.discordapp.net/external/0hN2xvsfwRIArdMvcLLi4kBIjfzbbrUvpy__TknuD7c/https/o.remove.bg/downloads/4c70b665-a1d0-4fe6-96e6-6a0bf6571490/C8A5EC7D-0B76-4A97-952F-51455D3907C4-removebg-preview.png",
     "alpha": 1.0
-
   }
 }
